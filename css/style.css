@@ -1,14 +1,21 @@
+body {
+	background-color: yellow;
+}
+h1 {
+	text-align: center;
+}
 h2 {
     font-family:arial;
+    text-align: center;
 }
 
 form {
     display: inline-block;
 }
 
-#button{
+button{
     display: inline-block;
-    height:20px;
+    height:50px;
 	width:70px;
 	background-color:#cc0000;
 	font-family:arial;
@@ -21,5 +28,6 @@ form {
 
 .list {
 	font-family:garamond;
-	color:#cc0000;
+	color:blue;
+	font-size: 30px;
 }
