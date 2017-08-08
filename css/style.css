@@ -27,7 +27,14 @@ button{
 }
 
 .list {
+	width: 50%;
+	height: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	background: url('../index.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
 	font-family:garamond;
-	color:blue;
 	font-size: 30px;
+	color: #ab1e82;
 }
